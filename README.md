@@ -1,8 +1,8 @@
-![Hi, 👋 Zabih here Web Developer from India (1)](https://user-images.githubusercontent.com/53895282/193913534-bddd1775-481e-4d6e-9f40-3a74336e9972.png)
 
-<a href="http://twitter.com/eddiejaoude">
+
+<!-- <a href="http://twitter.com/eddiejaoude">
     <img src="https://img.shields.io/twitter/follow/zabih01?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Zabih"/>
-  </a>
+  </a> -->
 
 
 - 🌱 I’m currently learning **React**
